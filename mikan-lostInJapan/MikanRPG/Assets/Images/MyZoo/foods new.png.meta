@@ -1,0 +1,4195 @@
+fileFormatVersion: 2
+guid: 136602ecee495e74bb0cdd3dc38b1586
+timeCreated: 1454475955
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: foods new_0
+    21300002: foods new_1
+    21300004: foods new_2
+    21300006: foods new_3
+    21300008: foods new_4
+    21300010: foods new_5
+    21300012: foods new_6
+    21300014: foods new_7
+    21300016: foods new_8
+    21300018: foods new_9
+    21300020: foods new_10
+    21300022: foods new_11
+    21300024: foods new_12
+    21300026: foods new_13
+    21300028: foods new_14
+    21300030: foods new_15
+    21300032: foods new_16
+    21300034: foods new_17
+    21300036: foods new_18
+    21300038: foods new_19
+    21300040: foods new_20
+    21300042: foods new_21
+    21300044: foods new_22
+    21300046: foods new_23
+    21300048: foods new_24
+    21300050: foods new_25
+    21300052: foods new_26
+    21300054: foods new_27
+    21300056: foods new_28
+    21300058: foods new_29
+    21300060: foods new_30
+    21300062: foods new_31
+    21300064: foods new_32
+    21300066: foods new_33
+    21300068: foods new_34
+    21300070: foods new_35
+    21300072: foods new_36
+    21300074: foods new_37
+    21300076: foods new_38
+    21300078: foods new_39
+    21300080: foods new_40
+    21300082: foods new_41
+    21300084: foods new_42
+    21300086: foods new_43
+    21300088: foods new_44
+    21300090: foods new_45
+    21300092: foods new_46
+    21300094: foods new_47
+    21300096: foods new_48
+    21300098: foods new_49
+    21300100: foods new_50
+    21300102: foods new_51
+    21300104: foods new_52
+    21300106: foods new_53
+    21300108: foods new_54
+    21300110: foods new_55
+    21300112: foods new_56
+    21300114: foods new_57
+    21300116: foods new_58
+    21300118: foods new_59
+    21300120: foods new_60
+    21300122: foods new_61
+    21300124: foods new_62
+    21300126: foods new_63
+    21300128: foods new_64
+    21300130: foods new_65
+    21300132: foods new_66
+    21300134: foods new_67
+    21300136: foods new_68
+    21300138: foods new_69
+    21300140: foods new_70
+    21300142: foods new_71
+    21300144: foods new_72
+    21300146: foods new_73
+    21300148: foods new_74
+    21300150: foods new_75
+    21300152: foods new_76
+    21300154: foods new_77
+    21300156: foods new_78
+    21300158: foods new_79
+    21300160: foods new_80
+    21300162: foods new_81
+    21300164: foods new_82
+    21300166: foods new_83
+    21300168: foods new_84
+    21300170: foods new_85
+    21300172: foods new_86
+    21300174: foods new_87
+    21300176: foods new_88
+    21300178: foods new_89
+    21300180: foods new_90
+    21300182: foods new_91
+    21300184: foods new_92
+    21300186: foods new_93
+    21300188: foods new_94
+    21300190: foods new_95
+    21300192: foods new_96
+    21300194: foods new_97
+    21300196: foods new_98
+    21300198: foods new_99
+    21300200: foods new_100
+    21300202: foods new_101
+    21300204: foods new_102
+    21300206: foods new_103
+    21300208: foods new_104
+    21300210: foods new_105
+    21300212: foods new_106
+    21300214: foods new_107
+    21300216: foods new_108
+    21300218: foods new_109
+    21300220: foods new_110
+    21300222: foods new_111
+    21300224: foods new_112
+    21300226: foods new_113
+    21300228: foods new_114
+    21300230: foods new_115
+    21300232: foods new_116
+    21300234: foods new_117
+    21300236: foods new_118
+    21300238: foods new_119
+    21300240: foods new_120
+    21300242: foods new_121
+    21300244: foods new_122
+    21300246: foods new_123
+    21300248: foods new_124
+    21300250: foods new_125
+    21300252: foods new_126
+    21300254: foods new_127
+    21300256: foods new_128
+    21300258: foods new_129
+    21300260: foods new_130
+    21300262: foods new_131
+    21300264: foods new_132
+    21300266: foods new_133
+    21300268: foods new_134
+    21300270: foods new_135
+    21300272: foods new_136
+    21300274: foods new_137
+    21300276: foods new_138
+    21300278: foods new_139
+    21300280: foods new_140
+    21300282: foods new_141
+    21300284: foods new_142
+    21300286: foods new_143
+    21300288: foods new_144
+    21300290: foods new_145
+    21300292: foods new_146
+    21300294: foods new_147
+    21300296: foods new_148
+    21300298: foods new_149
+    21300300: foods new_150
+    21300302: foods new_151
+    21300304: foods new_152
+    21300306: foods new_153
+    21300308: foods new_154
+    21300310: foods new_155
+    21300312: foods new_156
+    21300314: foods new_157
+    21300316: foods new_158
+    21300318: foods new_159
+    21300320: foods new_160
+    21300322: foods new_161
+    21300324: foods new_162
+    21300326: foods new_163
+    21300328: foods new_164
+    21300330: foods new_165
+    21300332: foods new_166
+    21300334: foods new_167
+    21300336: foods new_168
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: foods new_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 17}
+        - {x: -9, y: 17}
+        - {x: -12, y: 12}
+        - {x: -12, y: 2}
+        - {x: -6, y: -15}
+        - {x: -4, y: -16}
+        - {x: 2, y: -16}
+        - {x: 7, y: 5}
+        - {x: 7, y: 15}
+    - name: foods new_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -11}
+        - {x: -15, y: -16}
+        - {x: 0, y: -16}
+        - {x: 4, y: -11}
+        - {x: 4, y: 17}
+      - - {x: 8, y: -5}
+        - {x: 7, y: -10}
+        - {x: 7, y: -16}
+        - {x: 16, y: -16}
+        - {x: 18, y: -14}
+        - {x: 18, y: 11}
+        - {x: 15, y: 10}
+    - name: foods new_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 14}
+        - {x: -18, y: -14}
+        - {x: 18, y: -14}
+        - {x: 18, y: 14}
+    - name: foods new_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 14}
+        - {x: -18, y: 14}
+        - {x: -18, y: -15}
+        - {x: -15, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 10}
+        - {x: 16, y: 11}
+    - name: foods new_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -18, y: 10}
+        - {x: -18, y: -16}
+        - {x: -8, y: -16}
+        - {x: -4, y: -13}
+        - {x: -4, y: -1}
+        - {x: -6, y: 7}
+      - - {x: -2, y: 1}
+        - {x: 1, y: -11}
+        - {x: 6, y: -16}
+        - {x: 14, y: -16}
+        - {x: 18, y: -12}
+        - {x: 18, y: 17}
+        - {x: -2, y: 17}
+    - name: foods new_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -13}
+        - {x: -8, y: -16}
+        - {x: 14, y: -16}
+        - {x: 18, y: -15}
+        - {x: 18, y: 12}
+        - {x: 17, y: 13}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 1}
+        - {x: -15, y: 2}
+        - {x: -14, y: 10}
+        - {x: -14, y: 15}
+        - {x: -17, y: 17}
+    - name: foods new_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 15}
+        - {x: -18, y: 12}
+        - {x: -18, y: -15}
+        - {x: -15, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 11}
+        - {x: 17, y: 15}
+    - name: foods new_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 17}
+        - {x: -18, y: -3}
+        - {x: -18, y: -15}
+        - {x: -16, y: -16}
+        - {x: -10, y: -16}
+        - {x: 13, y: 6}
+        - {x: 13, y: 13}
+        - {x: 11, y: 17}
+      - - {x: 12, y: 10}
+        - {x: 9, y: 4}
+        - {x: 9, y: -11}
+        - {x: 14, y: -14}
+        - {x: 18, y: -14}
+        - {x: 18, y: 10}
+    - name: foods new_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 13}
+    - name: foods new_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 17}
+        - {x: 2, y: 11}
+        - {x: 2, y: -2}
+        - {x: 8, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 12}
+        - {x: -18, y: -16}
+        - {x: -1, y: -16}
+        - {x: 4, y: -14}
+        - {x: 4, y: 12}
+    - name: foods new_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -16}
+        - {x: -12, y: -16}
+        - {x: -5, y: -10}
+        - {x: -3, y: 7}
+        - {x: -3, y: 12}
+      - - {x: -2, y: 13}
+        - {x: -5, y: 4}
+        - {x: -5, y: -10}
+        - {x: 2, y: -14}
+        - {x: 7, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 13}
+    - name: foods new_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 12}
+        - {x: -18, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 12}
+    - name: foods new_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 435
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -6, y: 5}
+        - {x: -6, y: -15}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 17}
+      - - {x: -18, y: 8}
+        - {x: -18, y: -13}
+        - {x: -17, y: -13}
+        - {x: -11, y: -7}
+        - {x: -11, y: 1}
+        - {x: -16, y: 8}
+    - name: foods new_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -10}
+        - {x: -17, y: -14}
+        - {x: 8, y: -14}
+        - {x: 18, y: -12}
+        - {x: 18, y: 15}
+        - {x: 12, y: 17}
+    - name: foods new_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -18, y: 16}
+        - {x: -18, y: -15}
+        - {x: 1, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 16}
+        - {x: -18, y: 16}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+    - name: foods new_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 15}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 15}
+    - name: foods new_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 15}
+        - {x: -18, y: -17}
+        - {x: -1, y: -17}
+        - {x: 18, y: -13}
+        - {x: 18, y: 15}
+    - name: foods new_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: -11}
+        - {x: -15, y: -14}
+        - {x: 18, y: -14}
+        - {x: 18, y: 12}
+        - {x: 17, y: 15}
+    - name: foods new_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -12, y: 9}
+        - {x: -18, y: 7}
+        - {x: -18, y: -14}
+        - {x: 15, y: -14}
+        - {x: 18, y: -13}
+        - {x: 18, y: 9}
+        - {x: 9, y: 15}
+    - name: foods new_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 14}
+        - {x: 9, y: 15}
+        - {x: -14, y: 15}
+        - {x: -18, y: 11}
+        - {x: -18, y: -13}
+        - {x: -1, y: -17}
+        - {x: 13, y: -17}
+        - {x: 12, y: -13}
+        - {x: 9, y: -11}
+        - {x: 18, y: -10}
+    - name: foods new_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -6}
+        - {x: 11, y: -9}
+        - {x: 13, y: -11}
+        - {x: 18, y: -13}
+        - {x: 18, y: 15}
+        - {x: 13, y: 16}
+        - {x: -18, y: 16}
+        - {x: -18, y: -16}
+        - {x: -17, y: -17}
+        - {x: -3, y: -17}
+        - {x: 6, y: -6}
+        - {x: 7, y: -4}
+        - {x: 6, y: -4}
+    - name: foods new_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 15}
+        - {x: -18, y: -13}
+        - {x: -17, y: -14}
+        - {x: -5, y: -14}
+        - {x: 4, y: -4}
+        - {x: 4, y: 10}
+        - {x: -5, y: 15}
+      - - {x: 12, y: 17}
+        - {x: 4, y: 2}
+        - {x: 3, y: 0}
+        - {x: 3, y: -6}
+        - {x: 8, y: -12}
+        - {x: 16, y: -12}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+    - name: foods new_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -12}
+        - {x: -14, y: -15}
+        - {x: -8, y: -14}
+        - {x: -4, y: -7}
+        - {x: 3, y: -10}
+        - {x: 10, y: -10}
+        - {x: 6, y: -10}
+        - {x: 4, y: -12}
+        - {x: 3, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -17}
+        - {x: 18, y: 15}
+        - {x: -18, y: 15}
+        - {x: -18, y: -17}
+        - {x: -8, y: -17}
+        - {x: -7, y: -15}
+        - {x: -6, y: -12}
+        - {x: -2, y: -17}
+    - name: foods new_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 401
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -17}
+        - {x: -6, y: -14}
+        - {x: -12, y: -14}
+        - {x: -13, y: -17}
+      - - {x: -9, y: 15}
+        - {x: -11, y: 10}
+        - {x: -11, y: 6}
+        - {x: -11, y: 7}
+        - {x: -16, y: 12}
+        - {x: -18, y: 12}
+        - {x: -18, y: -11}
+        - {x: -6, y: -14}
+        - {x: 11, y: -14}
+        - {x: 18, y: -10}
+        - {x: 18, y: 15}
+    - name: foods new_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -10}
+        - {x: -10, y: -17}
+        - {x: 16, y: -17}
+        - {x: 18, y: -12}
+        - {x: 18, y: 17}
+    - name: foods new_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -17}
+        - {x: 0, y: -14}
+        - {x: -14, y: -14}
+        - {x: -15, y: -17}
+      - - {x: -16, y: 17}
+        - {x: -18, y: 16}
+        - {x: -18, y: -11}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+    - name: foods new_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -4, y: -17}
+        - {x: -5, y: -14}
+        - {x: -14, y: -13}
+        - {x: -18, y: -14}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -11}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+    - name: foods new_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -16}
+        - {x: -14, y: -17}
+        - {x: 0, y: -17}
+        - {x: 0, y: 4}
+        - {x: -8, y: 17}
+      - - {x: 4, y: 17}
+        - {x: 4, y: 10}
+        - {x: 5, y: -9}
+        - {x: 6, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -10, y: -17}
+        - {x: -10, y: -16}
+        - {x: -13, y: -13}
+        - {x: -18, y: -12}
+      - - {x: 6, y: -11}
+        - {x: 1, y: -13}
+        - {x: -1, y: -16}
+        - {x: -1, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 16, y: -11}
+      - - {x: -6, y: 17}
+        - {x: -8, y: 16}
+        - {x: -8, y: -9}
+        - {x: -4, y: -11}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -10}
+        - {x: -15, y: -10}
+        - {x: -11, y: -5}
+        - {x: -11, y: 17}
+    - name: foods new_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -17}
+        - {x: -13, y: -14}
+        - {x: -18, y: -13}
+        - {x: -18, y: -17}
+      - - {x: 12, y: -17}
+        - {x: 11, y: -14}
+        - {x: -1, y: -14}
+        - {x: -2, y: -17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -11}
+        - {x: 15, y: -11}
+        - {x: 18, y: -10}
+        - {x: 18, y: 16}
+        - {x: 17, y: 17}
+    - name: foods new_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -17}
+        - {x: 8, y: -17}
+        - {x: 7, y: -14}
+        - {x: 4, y: -12}
+        - {x: -2, y: -12}
+        - {x: -6, y: -14}
+      - - {x: -16, y: 17}
+        - {x: -18, y: 16}
+        - {x: -18, y: -11}
+        - {x: 10, y: -11}
+        - {x: 18, y: -9}
+        - {x: 18, y: 9}
+        - {x: 14, y: 17}
+    - name: foods new_33
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -18, y: 6}
+        - {x: -18, y: -17}
+        - {x: 13, y: -17}
+        - {x: 13, y: 17}
+    - name: foods new_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 1, y: -17}
+        - {x: 1, y: -2}
+        - {x: 0, y: 17}
+      - - {x: 12, y: -16}
+        - {x: 12, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -14}
+        - {x: 14, y: -14}
+      - - {x: 11, y: 17}
+        - {x: 4, y: 9}
+        - {x: 4, y: -3}
+        - {x: 10, y: -9}
+        - {x: 15, y: -10}
+        - {x: 18, y: -10}
+        - {x: 18, y: 17}
+    - name: foods new_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -13}
+        - {x: -18, y: -17}
+        - {x: -4, y: -17}
+        - {x: -5, y: -13}
+      - - {x: 8, y: -15}
+        - {x: 8, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -11}
+        - {x: 13, y: -11}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -11}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+    - name: foods new_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -9, y: -17}
+        - {x: -9, y: -16}
+        - {x: -14, y: -11}
+        - {x: -18, y: -11}
+      - - {x: 0, y: 17}
+        - {x: -1, y: 14}
+        - {x: -1, y: -12}
+        - {x: 7, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -9, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -11}
+        - {x: -10, y: -11}
+        - {x: -1, y: -6}
+        - {x: -1, y: 12}
+    - name: foods new_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -9, y: -17}
+        - {x: -9, y: -16}
+        - {x: -16, y: -9}
+        - {x: -18, y: -9}
+      - - {x: -2, y: -13}
+        - {x: -2, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: -13}
+      - - {x: -5, y: 17}
+        - {x: -5, y: -11}
+        - {x: 11, y: -11}
+        - {x: 18, y: -9}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -9}
+        - {x: -9, y: -6}
+        - {x: -9, y: 13}
+        - {x: -10, y: 17}
+    - name: foods new_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 367
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -15, y: -6}
+        - {x: -9, y: -17}
+        - {x: 17, y: -17}
+        - {x: 18, y: -15}
+        - {x: 18, y: 13}
+        - {x: 16, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 11}
+        - {x: -15, y: 12}
+        - {x: -15, y: 16}
+        - {x: -16, y: 17}
+    - name: foods new_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 4, y: -17}
+        - {x: 12, y: -11}
+        - {x: 12, y: 17}
+      - - {x: 16, y: 16}
+        - {x: 12, y: 12}
+        - {x: 12, y: 3}
+        - {x: 13, y: -1}
+        - {x: 17, y: -4}
+        - {x: 18, y: -4}
+        - {x: 18, y: 16}
+    - name: foods new_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 10, y: -17}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+      - - {x: 10, y: -16}
+        - {x: 10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 16, y: -12}
+    - name: foods new_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -12}
+        - {x: -18, y: -17}
+        - {x: 2, y: -17}
+        - {x: 1, y: -14}
+        - {x: -5, y: -11}
+        - {x: -17, y: -11}
+      - - {x: 11, y: -8}
+        - {x: 4, y: -14}
+        - {x: 4, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+      - - {x: 0, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -7}
+        - {x: -17, y: -8}
+        - {x: 18, y: -8}
+        - {x: 18, y: 6}
+    - name: foods new_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 0, y: -17}
+        - {x: 0, y: -14}
+        - {x: -8, y: -8}
+      - - {x: 2, y: -16}
+        - {x: 2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 4, y: -12}
+      - - {x: -13, y: 17}
+        - {x: -18, y: 7}
+        - {x: -18, y: -7}
+        - {x: -16, y: -8}
+        - {x: 18, y: -8}
+        - {x: 18, y: 17}
+    - name: foods new_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -12}
+        - {x: -18, y: -17}
+        - {x: -9, y: -17}
+        - {x: -9, y: -16}
+        - {x: -11, y: -13}
+        - {x: -14, y: -12}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -8}
+        - {x: -16, y: -8}
+        - {x: -11, y: -6}
+        - {x: -7, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -7}
+        - {x: -18, y: -17}
+        - {x: -9, y: -17}
+        - {x: -9, y: -14}
+        - {x: -15, y: -7}
+      - - {x: -3, y: -10}
+        - {x: -9, y: -14}
+        - {x: -9, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -13}
+        - {x: 12, y: -10}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -7}
+        - {x: -10, y: -8}
+        - {x: 18, y: -8}
+        - {x: 18, y: 17}
+    - name: foods new_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -17}
+        - {x: 14, y: -17}
+        - {x: 13, y: -14}
+        - {x: 11, y: -11}
+        - {x: -9, y: -11}
+        - {x: -13, y: -12}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -7}
+        - {x: -16, y: -8}
+        - {x: -6, y: -8}
+        - {x: 18, y: 2}
+        - {x: 18, y: 17}
+    - name: foods new_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 11, y: -17}
+        - {x: 13, y: -10}
+        - {x: 13, y: 15}
+        - {x: 12, y: 17}
+      - - {x: 11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 11, y: -15}
+    - name: foods new_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: 3, y: 10}
+        - {x: 4, y: 0}
+        - {x: -17, y: -9}
+        - {x: -18, y: -10}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: -13, y: -8}
+        - {x: -3, y: -8}
+        - {x: 2, y: 2}
+        - {x: 2, y: 16}
+        - {x: 1, y: 17}
+    - name: foods new_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 9, y: -17}
+        - {x: 18, y: -11}
+        - {x: 18, y: 17}
+      - - {x: 3, y: -16}
+        - {x: 3, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 9, y: -12}
+    - name: foods new_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -4, y: -17}
+        - {x: -5, y: -14}
+        - {x: -10, y: -12}
+        - {x: -18, y: -12}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -10}
+        - {x: -1, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_50
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -12, y: -17}
+        - {x: -12, y: -8}
+        - {x: -14, y: -6}
+        - {x: -18, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -6}
+        - {x: -5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 333
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -10}
+        - {x: -11, y: -14}
+        - {x: -11, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: -16}
+        - {x: 15, y: -12}
+        - {x: 10, y: -10}
+      - - {x: -8, y: 17}
+        - {x: -8, y: 2}
+        - {x: -6, y: -8}
+        - {x: 7, y: -8}
+        - {x: 14, y: 11}
+        - {x: 15, y: 17}
+      - - {x: -10, y: 13}
+        - {x: -15, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: -17, y: -5}
+        - {x: -10, y: 2}
+    - name: foods new_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -5}
+        - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -11}
+        - {x: 9, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -7, y: -4}
+        - {x: 3, y: -5}
+        - {x: 14, y: -5}
+        - {x: 15, y: -3}
+        - {x: 15, y: 5}
+        - {x: 4, y: 17}
+    - name: foods new_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -8}
+        - {x: -18, y: -10}
+        - {x: -18, y: -17}
+        - {x: 9, y: -17}
+        - {x: 9, y: -14}
+        - {x: 1, y: -8}
+      - - {x: 12, y: -10}
+        - {x: 10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -6}
+        - {x: 17, y: -6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -4}
+        - {x: -15, y: -5}
+        - {x: 3, y: -5}
+        - {x: 5, y: -2}
+        - {x: 5, y: 17}
+      - - {x: 9, y: 17}
+        - {x: 6, y: 13}
+        - {x: 6, y: 6}
+        - {x: 7, y: 0}
+        - {x: 14, y: -4}
+        - {x: 18, y: -4}
+        - {x: 18, y: 17}
+    - name: foods new_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 15, y: -17}
+        - {x: 18, y: -7}
+        - {x: 18, y: 17}
+      - - {x: 14, y: -8}
+        - {x: 7, y: -13}
+        - {x: 5, y: -16}
+        - {x: 5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+    - name: foods new_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -6}
+        - {x: -2, y: -11}
+        - {x: -9, y: -9}
+        - {x: -12, y: -8}
+        - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+        - {x: 16, y: -6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 17}
+    - name: foods new_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -9}
+        - {x: 12, y: -8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 17}
+    - name: foods new_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -3}
+        - {x: -14, y: -3}
+        - {x: -18, y: -9}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_58
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8}
+        - {x: -18, y: -9}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -9}
+        - {x: 14, y: -8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -2}
+        - {x: -12, y: -5}
+        - {x: 15, y: -5}
+        - {x: 18, y: 2}
+        - {x: 18, y: 17}
+    - name: foods new_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -6}
+        - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+        - {x: 15, y: -6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 2}
+        - {x: -14, y: -5}
+        - {x: 6, y: -5}
+        - {x: 18, y: -1}
+        - {x: 18, y: 17}
+    - name: foods new_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: -8}
+        - {x: -18, y: -9}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 17}
+    - name: foods new_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 1, y: -17}
+        - {x: 1, y: -13}
+        - {x: -6, y: -8}
+      - - {x: 2, y: -15}
+        - {x: 2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -9}
+        - {x: 8, y: -9}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: 18, y: -5}
+        - {x: 18, y: 17}
+    - name: foods new_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 11, y: -17}
+        - {x: 11, y: -16}
+        - {x: 7, y: -10}
+        - {x: 3, y: -8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -5}
+        - {x: -14, y: -5}
+        - {x: -7, y: -4}
+        - {x: -1, y: 4}
+        - {x: -1, y: 15}
+        - {x: -2, y: 17}
+      - - {x: 2, y: 17}
+        - {x: 2, y: 0}
+        - {x: 6, y: -5}
+        - {x: 17, y: -5}
+        - {x: 18, y: -4}
+        - {x: 18, y: 17}
+    - name: foods new_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -8}
+        - {x: -9, y: -14}
+        - {x: -9, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -10}
+        - {x: 14, y: -8}
+      - - {x: -4, y: 17}
+        - {x: -4, y: -1}
+        - {x: 3, y: -5}
+        - {x: 15, y: -5}
+        - {x: 18, y: -4}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -4}
+        - {x: -15, y: -4}
+        - {x: -12, y: 2}
+        - {x: -12, y: 17}
+    - name: foods new_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 299
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -12, y: -17}
+        - {x: -12, y: -15}
+        - {x: -16, y: -11}
+        - {x: -18, y: -11}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -2}
+        - {x: -15, y: -1}
+        - {x: -13, y: 3}
+        - {x: -14, y: 3}
+        - {x: -13, y: 1}
+        - {x: -10, y: -2}
+        - {x: -11, y: -12}
+        - {x: -11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -4}
+        - {x: -18, y: -17}
+        - {x: 15, y: -17}
+        - {x: 15, y: -4}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 2}
+        - {x: -13, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 17}
+    - name: foods new_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 5, y: -17}
+        - {x: 11, y: 3}
+        - {x: 11, y: 17}
+      - - {x: 10, y: -15}
+        - {x: 10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 12, y: -13}
+      - - {x: 10, y: 17}
+        - {x: 10, y: 10}
+        - {x: 15, y: 5}
+        - {x: 18, y: 5}
+        - {x: 18, y: 17}
+    - name: foods new_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -6}
+        - {x: -18, y: -17}
+        - {x: 2, y: -17}
+        - {x: 2, y: -12}
+        - {x: -7, y: -6}
+      - - {x: 9, y: -14}
+        - {x: 9, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+        - {x: 13, y: -7}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -16, y: -2}
+        - {x: -13, y: -3}
+        - {x: -8, y: -3}
+        - {x: 0, y: 11}
+        - {x: 1, y: 14}
+        - {x: 1, y: 17}
+      - - {x: 2, y: 17}
+        - {x: 2, y: 5}
+        - {x: 4, y: -2}
+        - {x: 18, y: -2}
+        - {x: 18, y: 17}
+    - name: foods new_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -6, y: -17}
+        - {x: -5, y: -14}
+        - {x: 18, y: -2}
+        - {x: 18, y: 17}
+      - - {x: 18, y: -4}
+        - {x: 3, y: -4}
+        - {x: -3, y: -6}
+        - {x: -3, y: -17}
+        - {x: 18, y: -17}
+    - name: foods new_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -4}
+        - {x: -18, y: -13}
+        - {x: -14, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -4}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -2}
+        - {x: -12, y: -3}
+        - {x: 16, y: -3}
+        - {x: 18, y: -2}
+        - {x: 18, y: 17}
+    - name: foods new_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -3}
+        - {x: -18, y: -7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+        - {x: 12, y: -3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 0}
+        - {x: -10, y: -3}
+        - {x: 12, y: -3}
+        - {x: 18, y: -1}
+        - {x: 18, y: 17}
+    - name: foods new_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -5}
+        - {x: -18, y: -8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -12}
+        - {x: 8, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -5, y: -3}
+        - {x: 10, y: -3}
+        - {x: 18, y: 5}
+        - {x: 18, y: 17}
+    - name: foods new_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -5}
+        - {x: -18, y: -9}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -16, y: 0}
+        - {x: -10, y: -2}
+        - {x: 12, y: -2}
+        - {x: 18, y: 0}
+        - {x: 18, y: 17}
+    - name: foods new_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -5}
+        - {x: -18, y: -7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -2}
+        - {x: -17, y: -3}
+        - {x: 18, y: -3}
+        - {x: 18, y: 17}
+    - name: foods new_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -3}
+        - {x: 18, y: -3}
+        - {x: 18, y: 17}
+    - name: foods new_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: -1, y: -17}
+        - {x: -1, y: -11}
+        - {x: -10, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -3}
+        - {x: -15, y: -3}
+        - {x: -9, y: -1}
+        - {x: 2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 16}
+        - {x: 15, y: 17}
+    - name: foods new_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -17}
+        - {x: -14, y: -14}
+        - {x: -18, y: -13}
+        - {x: -18, y: -17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 265
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -5}
+        - {x: -18, y: -10}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -1}
+        - {x: -17, y: -2}
+        - {x: 11, y: -2}
+        - {x: 17, y: 3}
+        - {x: 18, y: 13}
+        - {x: 18, y: 17}
+    - name: foods new_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -3}
+        - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -4}
+        - {x: 16, y: -3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 9}
+        - {x: -15, y: 5}
+        - {x: -8, y: 1}
+        - {x: 4, y: 1}
+        - {x: 9, y: 2}
+        - {x: 15, y: 11}
+        - {x: 15, y: 17}
+    - name: foods new_79
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -3}
+        - {x: -18, y: -6}
+        - {x: -18, y: -17}
+        - {x: 10, y: -17}
+        - {x: 10, y: -11}
+        - {x: 1, y: -3}
+      - - {x: 8, y: 17}
+        - {x: 6, y: 12}
+        - {x: 6, y: 6}
+        - {x: 14, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 2}
+        - {x: -16, y: 0}
+        - {x: -4, y: 0}
+        - {x: 5, y: 1}
+        - {x: 6, y: 4}
+        - {x: 6, y: 13}
+        - {x: 5, y: 17}
+    - name: foods new_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 2, y: -17}
+        - {x: 6, y: -2}
+        - {x: 6, y: 15}
+        - {x: 5, y: 17}
+      - - {x: 6, y: 17}
+        - {x: 2, y: 2}
+        - {x: 2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_81
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 1, y: -17}
+        - {x: 1, y: -13}
+        - {x: -2, y: -4}
+        - {x: -3, y: 8}
+      - - {x: -3, y: 17}
+        - {x: -3, y: 13}
+        - {x: -1, y: 8}
+        - {x: 3, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 17}
+        - {x: -15, y: 17}
+        - {x: -18, y: 15}
+        - {x: -18, y: -17}
+        - {x: -10, y: -17}
+        - {x: -8, y: -9}
+        - {x: 15, y: -2}
+        - {x: 18, y: 1}
+      - - {x: -2, y: -3}
+        - {x: -5, y: -5}
+        - {x: -6, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -3}
+    - name: foods new_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -11, y: -17}
+        - {x: -11, y: -13}
+        - {x: -12, y: -6}
+        - {x: -16, y: -3}
+        - {x: -18, y: -3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 1}
+        - {x: -5, y: -17}
+        - {x: 17, y: -17}
+        - {x: 18, y: -5}
+        - {x: 18, y: 17}
+    - name: foods new_84
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -1}
+        - {x: -2, y: -9}
+        - {x: -2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -5}
+        - {x: 10, y: -1}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 5}
+        - {x: -12, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 4}
+        - {x: 18, y: 17}
+    - name: foods new_85
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -2}
+        - {x: -18, y: -6}
+        - {x: -18, y: -17}
+        - {x: 14, y: -17}
+        - {x: 12, y: -9}
+        - {x: 9, y: -3}
+        - {x: 6, y: -2}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -14, y: 0}
+        - {x: 7, y: 0}
+        - {x: 18, y: 2}
+        - {x: 18, y: 17}
+    - name: foods new_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 2, y: -17}
+        - {x: 18, y: -2}
+        - {x: 18, y: 17}
+      - - {x: 12, y: -1}
+        - {x: 5, y: -10}
+        - {x: 5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -1}
+    - name: foods new_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -9, y: -17}
+        - {x: -8, y: -16}
+        - {x: -1, y: 7}
+      - - {x: -2, y: 17}
+        - {x: -5, y: 0}
+        - {x: -5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_89
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 1}
+        - {x: -15, y: 1}
+        - {x: -11, y: 6}
+        - {x: -11, y: 14}
+        - {x: -12, y: 17}
+    - name: foods new_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 231
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -1}
+        - {x: -10, y: 1}
+        - {x: -18, y: 1}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -8}
+        - {x: 15, y: -5}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 0}
+        - {x: 13, y: 0}
+        - {x: 18, y: 5}
+        - {x: 18, y: 17}
+    - name: foods new_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -8}
+        - {x: -17, y: -17}
+        - {x: 11, y: -17}
+        - {x: 18, y: 4}
+        - {x: 18, y: 17}
+      - - {x: 16, y: -3}
+        - {x: 11, y: -9}
+        - {x: 11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -3}
+    - name: foods new_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 2}
+        - {x: -18, y: 0}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -1}
+        - {x: 10, y: 2}
+      - - {x: 10, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 5}
+        - {x: -13, y: 3}
+        - {x: -1, y: 3}
+        - {x: 4, y: 5}
+        - {x: 10, y: 12}
+        - {x: 11, y: 16}
+      - - {x: 14, y: 17}
+        - {x: 14, y: 8}
+        - {x: 17, y: 7}
+        - {x: 18, y: 7}
+        - {x: 18, y: 17}
+    - name: foods new_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 0}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 0}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -16, y: 3}
+        - {x: -5, y: 3}
+        - {x: -4, y: 5}
+        - {x: -2, y: 10}
+        - {x: -2, y: 17}
+      - - {x: 2, y: 17}
+        - {x: 2, y: 12}
+        - {x: 8, y: 4}
+        - {x: 14, y: 3}
+        - {x: 18, y: 3}
+        - {x: 18, y: 17}
+    - name: foods new_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 1}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 1}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -7, y: 3}
+        - {x: 1, y: 10}
+        - {x: 1, y: 17}
+      - - {x: 3, y: 17}
+        - {x: 4, y: 7}
+        - {x: 9, y: 3}
+        - {x: 18, y: 3}
+        - {x: 18, y: 17}
+    - name: foods new_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 0}
+        - {x: -18, y: 0}
+        - {x: -18, y: -17}
+        - {x: -4, y: -17}
+        - {x: -3, y: -13}
+        - {x: -3, y: -7}
+      - - {x: -8, y: 17}
+        - {x: -8, y: 0}
+        - {x: 0, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -14, y: 4}
+        - {x: -10, y: 10}
+        - {x: -10, y: 17}
+    - name: foods new_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -1}
+        - {x: -18, y: -17}
+        - {x: -14, y: -17}
+        - {x: -14, y: -4}
+        - {x: -17, y: -1}
+      - - {x: 10, y: 1}
+        - {x: 2, y: 1}
+        - {x: -4, y: -1}
+        - {x: -12, y: -6}
+        - {x: -13, y: -11}
+        - {x: -13, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -3}
+        - {x: 17, y: -1}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -12, y: 3}
+        - {x: -8, y: 4}
+        - {x: -8, y: 12}
+        - {x: -9, y: 17}
+      - - {x: -4, y: 17}
+        - {x: -4, y: 8}
+        - {x: -2, y: 4}
+        - {x: 1, y: 3}
+        - {x: 10, y: 3}
+        - {x: 14, y: 7}
+        - {x: 14, y: 17}
+    - name: foods new_97
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 1}
+        - {x: -8, y: 1}
+        - {x: -18, y: -4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -6}
+        - {x: 8, y: 0}
+      - - {x: -16, y: 17}
+        - {x: -17, y: 13}
+        - {x: -17, y: 7}
+        - {x: -14, y: 4}
+        - {x: 3, y: 4}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_98
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 3}
+        - {x: 0, y: 3}
+        - {x: -10, y: 1}
+        - {x: -18, y: -5}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 0}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -13, y: 3}
+        - {x: 5, y: 3}
+        - {x: 13, y: 9}
+        - {x: 13, y: 17}
+    - name: foods new_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 0}
+        - {x: -18, y: -1}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 0}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 6}
+        - {x: -15, y: 3}
+        - {x: -1, y: 3}
+        - {x: 2, y: 6}
+        - {x: 2, y: 17}
+      - - {x: 5, y: 17}
+        - {x: 7, y: 8}
+        - {x: 15, y: 3}
+        - {x: 18, y: 3}
+        - {x: 18, y: 17}
+    - name: foods new_100
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 1}
+        - {x: -16, y: 1}
+        - {x: -18, y: 0}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 0}
+        - {x: 7, y: 0}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -2, y: 3}
+        - {x: 2, y: 11}
+        - {x: 3, y: 17}
+      - - {x: 8, y: 17}
+        - {x: 9, y: 7}
+        - {x: 11, y: 4}
+        - {x: 14, y: 3}
+        - {x: 18, y: 3}
+        - {x: 18, y: 17}
+    - name: foods new_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 0}
+        - {x: -18, y: -17}
+        - {x: -1, y: -17}
+        - {x: -1, y: -5}
+        - {x: -7, y: 0}
+      - - {x: -5, y: 17}
+        - {x: -5, y: 2}
+        - {x: 2, y: -17}
+        - {x: 13, y: -17}
+        - {x: 18, y: -14}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 3}
+        - {x: -15, y: 3}
+        - {x: -10, y: 7}
+        - {x: -9, y: 17}
+    - name: foods new_102
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: 4}
+        - {x: -5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 6}
+        - {x: -18, y: -12}
+        - {x: -10, y: -12}
+        - {x: -7, y: -6}
+        - {x: -7, y: 0}
+        - {x: -15, y: 6}
+    - name: foods new_103
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 197
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -14, y: 12}
+        - {x: -11, y: 7}
+        - {x: -12, y: -5}
+        - {x: -11, y: -16}
+        - {x: -10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -14, y: 13}
+        - {x: -14, y: -3}
+        - {x: -12, y: -17}
+        - {x: 9, y: -17}
+        - {x: 9, y: 17}
+      - - {x: 13, y: -6}
+        - {x: 11, y: -10}
+        - {x: 11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -6}
+      - - {x: 12, y: 17}
+        - {x: 12, y: 14}
+        - {x: 17, y: 9}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 5}
+        - {x: -14, y: 5}
+        - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: 11, y: -17}
+        - {x: 11, y: -9}
+        - {x: 10, y: -2}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 0}
+        - {x: -1, y: -12}
+        - {x: 10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 9, y: -17}
+        - {x: 18, y: -13}
+        - {x: 18, y: 17}
+      - - {x: 7, y: 2}
+        - {x: 2, y: -2}
+        - {x: 2, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 2}
+    - name: foods new_107
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 2}
+        - {x: -18, y: 2}
+        - {x: -18, y: -17}
+        - {x: 0, y: -17}
+        - {x: 1, y: -13}
+        - {x: 1, y: -8}
+        - {x: 0, y: -2}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -3}
+        - {x: -1, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -11, y: -17}
+        - {x: -4, y: 12}
+        - {x: -4, y: 17}
+      - - {x: 0, y: 4}
+        - {x: -8, y: -3}
+        - {x: -8, y: -16}
+        - {x: -6, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 4}
+      - - {x: 0, y: 17}
+        - {x: 1, y: 10}
+        - {x: 5, y: 6}
+        - {x: 14, y: 6}
+        - {x: 18, y: 10}
+        - {x: 18, y: 17}
+    - name: foods new_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 4}
+        - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -1}
+      - - {x: -12, y: 17}
+        - {x: -12, y: 12}
+        - {x: -4, y: 6}
+        - {x: 11, y: 6}
+        - {x: 17, y: 7}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 3}
+        - {x: -11, y: 2}
+        - {x: -18, y: -2}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -2}
+        - {x: 10, y: 3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 9}
+        - {x: -9, y: 6}
+        - {x: 9, y: 6}
+        - {x: 18, y: 13}
+        - {x: 18, y: 17}
+    - name: foods new_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 3}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 15}
+        - {x: -16, y: 10}
+        - {x: -11, y: 6}
+        - {x: 3, y: 6}
+        - {x: 10, y: 12}
+        - {x: 10, y: 17}
+      - - {x: 10, y: 17}
+        - {x: 11, y: 13}
+        - {x: 16, y: 8}
+        - {x: 18, y: 8}
+        - {x: 18, y: 17}
+    - name: foods new_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 3}
+        - {x: -18, y: 3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 6}
+        - {x: 18, y: 6}
+        - {x: 18, y: 17}
+    - name: foods new_113
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 6}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 6}
+        - {x: 18, y: 6}
+        - {x: 18, y: 17}
+    - name: foods new_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 6}
+        - {x: -18, y: 6}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 3}
+        - {x: 6, y: 4}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 6}
+        - {x: 12, y: 6}
+        - {x: 12, y: 17}
+    - name: foods new_115
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 3}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 2}
+        - {x: 17, y: 3}
+      - - {x: -2, y: 17}
+        - {x: -2, y: 9}
+        - {x: 3, y: 6}
+        - {x: 15, y: 6}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_116
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 163
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -3}
+        - {x: 13, y: 4}
+      - - {x: -10, y: 17}
+        - {x: -10, y: 15}
+        - {x: -5, y: 7}
+        - {x: -1, y: 6}
+        - {x: 9, y: 6}
+        - {x: 14, y: 13}
+        - {x: 14, y: 17}
+    - name: foods new_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 17}
+        - {x: -13, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 2}
+        - {x: 16, y: 2}
+      - - {x: 12, y: 17}
+        - {x: 14, y: 12}
+        - {x: 17, y: 11}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_118
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 6}
+        - {x: -12, y: 6}
+        - {x: -16, y: 5}
+        - {x: -18, y: 3}
+        - {x: -18, y: -17}
+        - {x: 9, y: -17}
+        - {x: 18, y: -14}
+        - {x: 18, y: 3}
+        - {x: 12, y: 3}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 11}
+        - {x: -17, y: 10}
+        - {x: -14, y: 8}
+        - {x: -4, y: 8}
+        - {x: 6, y: 10}
+        - {x: 9, y: 15}
+        - {x: 9, y: 17}
+      - - {x: 11, y: 17}
+        - {x: 11, y: 15}
+        - {x: 16, y: 10}
+        - {x: 18, y: 10}
+        - {x: 18, y: 17}
+    - name: foods new_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 3}
+        - {x: 3, y: -1}
+        - {x: 2, y: -4}
+        - {x: 2, y: -8}
+        - {x: 1, y: 0}
+        - {x: -11, y: 6}
+        - {x: -16, y: 6}
+        - {x: -18, y: 3}
+        - {x: -18, y: -15}
+        - {x: -17, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 6}
+        - {x: 12, y: 5}
+      - - {x: -5, y: 8}
+        - {x: 1, y: 10}
+        - {x: 1, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 8}
+      - - {x: 3, y: 17}
+        - {x: 3, y: 10}
+        - {x: 6, y: 8}
+        - {x: 12, y: 8}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_120
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 17}
+        - {x: 6, y: 13}
+        - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 9}
+        - {x: -17, y: 8}
+        - {x: -3, y: 8}
+        - {x: 0, y: 11}
+        - {x: 0, y: 17}
+    - name: foods new_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 8}
+      - - {x: -5, y: 17}
+        - {x: -5, y: 14}
+        - {x: 1, y: 8}
+        - {x: 18, y: 8}
+        - {x: 18, y: 17}
+      - - {x: -13, y: 11}
+        - {x: -12, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 9}
+    - name: foods new_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 6}
+        - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 4}
+        - {x: 10, y: 6}
+      - - {x: -11, y: 17}
+        - {x: -11, y: 14}
+        - {x: -3, y: 8}
+        - {x: 13, y: 8}
+        - {x: 18, y: 10}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 10}
+        - {x: -17, y: 10}
+        - {x: -12, y: 13}
+        - {x: -11, y: 17}
+    - name: foods new_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 8}
+        - {x: -18, y: 1}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 2}
+        - {x: 16, y: 8}
+      - - {x: -14, y: 8}
+        - {x: 11, y: 8}
+        - {x: 16, y: 10}
+        - {x: 16, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 13}
+    - name: foods new_124
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -7}
+        - {x: 13, y: -2}
+        - {x: 12, y: 4}
+        - {x: 8, y: 5}
+        - {x: -15, y: 5}
+        - {x: -18, y: 3}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -6}
+        - {x: 16, y: -6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 10}
+        - {x: -17, y: 8}
+        - {x: 18, y: 8}
+        - {x: 18, y: 17}
+    - name: foods new_125
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 8}
+        - {x: -13, y: 6}
+        - {x: -18, y: -4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+        - {x: 17, y: 8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 8}
+        - {x: 14, y: 8}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 8}
+        - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 8}
+        - {x: -3, y: 8}
+        - {x: 2, y: 15}
+        - {x: 2, y: 17}
+      - - {x: 2, y: 17}
+        - {x: 2, y: 15}
+        - {x: 3, y: 10}
+        - {x: 12, y: 8}
+        - {x: 18, y: 8}
+        - {x: 18, y: 17}
+    - name: foods new_127
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 5}
+        - {x: -3, y: 8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 8}
+        - {x: 17, y: 8}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_128
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 8}
+        - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+        - {x: 15, y: 8}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 9}
+        - {x: -16, y: 9}
+        - {x: -12, y: 8}
+        - {x: 15, y: 8}
+        - {x: 18, y: 9}
+        - {x: 18, y: 17}
+    - name: foods new_129
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 10}
+        - {x: -11, y: 8}
+        - {x: 13, y: 8}
+        - {x: 18, y: 14}
+        - {x: 18, y: 17}
+    - name: foods new_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 11, y: 17}
+        - {x: -17, y: 17}
+        - {x: -18, y: 12}
+        - {x: -18, y: -17}
+        - {x: -11, y: -17}
+        - {x: -1, y: -12}
+        - {x: 14, y: 2}
+      - - {x: 15, y: 2}
+        - {x: 17, y: 0}
+        - {x: 18, y: 0}
+        - {x: 18, y: 7}
+        - {x: 15, y: 6}
+    - name: foods new_131
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 15}
+        - {x: 12, y: 17}
+    - name: foods new_132
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 8}
+      - - {x: -3, y: 11}
+        - {x: 3, y: 11}
+        - {x: 6, y: 12}
+        - {x: 6, y: 17}
+        - {x: -4, y: 17}
+        - {x: -4, y: 15}
+      - - {x: 6, y: 17}
+        - {x: 7, y: 14}
+        - {x: 13, y: 11}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 4}
+        - {x: -12, y: 7}
+        - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+        - {x: 4, y: 7}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 11}
+        - {x: -8, y: 11}
+        - {x: -3, y: 16}
+        - {x: -3, y: 17}
+      - - {x: 0, y: 17}
+        - {x: 0, y: 14}
+        - {x: 5, y: 11}
+        - {x: 17, y: 11}
+        - {x: 18, y: 12}
+        - {x: 18, y: 17}
+    - name: foods new_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 10}
+        - {x: -17, y: 10}
+        - {x: -18, y: 9}
+        - {x: -18, y: -17}
+        - {x: -6, y: -17}
+        - {x: -5, y: -13}
+        - {x: -1, y: -17}
+        - {x: 18, y: -17}
+      - - {x: -4, y: 17}
+        - {x: -3, y: 14}
+        - {x: 3, y: 11}
+        - {x: 14, y: 11}
+        - {x: 18, y: 12}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 12}
+        - {x: -14, y: 12}
+        - {x: -9, y: 16}
+        - {x: -9, y: 17}
+    - name: foods new_135
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 9}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 5}
+        - {x: 13, y: 9}
+      - - {x: -8, y: 17}
+        - {x: -8, y: 13}
+        - {x: -3, y: 11}
+        - {x: 15, y: 11}
+        - {x: 18, y: 14}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 13}
+        - {x: -16, y: 13}
+        - {x: -13, y: 16}
+        - {x: -13, y: 17}
+    - name: foods new_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17}
+        - {x: -17, y: 15}
+        - {x: -18, y: 10}
+        - {x: -18, y: -17}
+        - {x: 8, y: -17}
+        - {x: 18, y: -14}
+        - {x: 18, y: 12}
+        - {x: 16, y: 17}
+    - name: foods new_137
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: -18, y: 7}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 10}
+      - - {x: -14, y: 17}
+        - {x: -14, y: 15}
+        - {x: -9, y: 11}
+        - {x: 0, y: 11}
+        - {x: 5, y: 15}
+        - {x: 5, y: 17}
+    - name: foods new_138
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 11}
+        - {x: -5, y: 11}
+        - {x: -6, y: 12}
+        - {x: -12, y: 12}
+        - {x: -5, y: 12}
+        - {x: -4, y: 11}
+        - {x: -2, y: 11}
+        - {x: 0, y: 13}
+        - {x: 0, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+        - {x: 13, y: 7}
+      - - {x: 8, y: 17}
+        - {x: 9, y: 13}
+        - {x: 18, y: 13}
+        - {x: 18, y: 17}
+    - name: foods new_139
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 9}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 9}
+      - - {x: -14, y: 11}
+        - {x: -5, y: 11}
+        - {x: -3, y: 12}
+        - {x: -2, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 13}
+      - - {x: 4, y: 17}
+        - {x: 5, y: 14}
+        - {x: 11, y: 11}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_140
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 1}
+        - {x: 7, y: 6}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 11}
+        - {x: -11, y: 12}
+        - {x: -5, y: 16}
+        - {x: -5, y: 17}
+      - - {x: 1, y: 17}
+        - {x: 1, y: 14}
+        - {x: 5, y: 11}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_141
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: -8, y: -17}
+        - {x: -6, y: -14}
+        - {x: -6, y: -4}
+        - {x: -14, y: 4}
+      - - {x: -6, y: 17}
+        - {x: -5, y: 14}
+        - {x: 0, y: -13}
+        - {x: 1, y: -17}
+        - {x: 16, y: -17}
+        - {x: 18, y: 3}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 12}
+        - {x: -14, y: 13}
+        - {x: -12, y: 16}
+        - {x: -12, y: 17}
+    - name: foods new_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 95
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 9}
+        - {x: -14, y: 0}
+        - {x: -14, y: -13}
+        - {x: -9, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 7}
+        - {x: 13, y: 9}
+      - - {x: -12, y: 17}
+        - {x: -12, y: 12}
+        - {x: -9, y: 11}
+        - {x: 13, y: 11}
+        - {x: 18, y: 15}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 14}
+        - {x: -16, y: 14}
+        - {x: -14, y: 16}
+        - {x: -14, y: 17}
+    - name: foods new_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: -14}
+        - {x: 14, y: -13}
+        - {x: 11, y: -16}
+      - - {x: -9, y: 13}
+        - {x: -18, y: 6}
+        - {x: -18, y: -15}
+        - {x: -13, y: -17}
+        - {x: 13, y: -17}
+        - {x: 18, y: -11}
+        - {x: 18, y: 13}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 14}
+        - {x: -15, y: 14}
+        - {x: -13, y: 16}
+        - {x: -13, y: 17}
+    - name: foods new_144
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -18, y: 15}
+        - {x: -18, y: -15}
+        - {x: -15, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 9}
+        - {x: 6, y: 17}
+    - name: foods new_145
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 13}
+        - {x: -18, y: 13}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 14}
+        - {x: -7, y: 14}
+        - {x: -5, y: 16}
+        - {x: -5, y: 17}
+      - - {x: 12, y: 17}
+        - {x: 13, y: 14}
+        - {x: 18, y: 14}
+        - {x: 18, y: 17}
+    - name: foods new_146
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -12, y: -17}
+        - {x: -6, y: -16}
+        - {x: -1, y: -9}
+        - {x: 1, y: 2}
+        - {x: 1, y: 11}
+      - - {x: 0, y: 17}
+        - {x: 5, y: -12}
+        - {x: 10, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_147
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -13, y: -15}
+        - {x: -10, y: -13}
+        - {x: -7, y: 10}
+        - {x: -7, y: 17}
+      - - {x: -3, y: 14}
+        - {x: -8, y: 10}
+        - {x: -8, y: -5}
+        - {x: -4, y: -13}
+        - {x: 9, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: 8}
+        - {x: 16, y: 14}
+      - - {x: 3, y: 17}
+        - {x: 4, y: 14}
+        - {x: 15, y: 14}
+        - {x: 17, y: 16}
+        - {x: 17, y: 17}
+    - name: foods new_148
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 17}
+        - {x: -6, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -17}
+        - {x: 11, y: -17}
+        - {x: 18, y: -10}
+        - {x: 18, y: 15}
+    - name: foods new_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -9}
+        - {x: -15, y: -16}
+        - {x: -7, y: -17}
+        - {x: 15, y: -17}
+        - {x: 18, y: -16}
+        - {x: 18, y: 12}
+        - {x: 17, y: 17}
+    - name: foods new_150
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 8}
+        - {x: 2, y: 11}
+        - {x: -4, y: 13}
+        - {x: -7, y: 13}
+        - {x: -18, y: 12}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 12}
+        - {x: 14, y: 11}
+      - - {x: -12, y: 17}
+        - {x: -11, y: 14}
+        - {x: 1, y: 14}
+        - {x: 3, y: 16}
+        - {x: 3, y: 17}
+    - name: foods new_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 1, y: -17}
+        - {x: 7, y: -13}
+        - {x: 9, y: 0}
+        - {x: 9, y: 10}
+      - - {x: 15, y: -14}
+        - {x: 17, y: -16}
+        - {x: 18, y: -16}
+        - {x: 18, y: -10}
+        - {x: 15, y: -11}
+      - - {x: 12, y: 17}
+        - {x: 12, y: 1}
+        - {x: 14, y: -2}
+        - {x: 17, y: -6}
+        - {x: 18, y: -6}
+        - {x: 18, y: 17}
+    - name: foods new_152
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 17}
+        - {x: 1, y: 11}
+        - {x: 1, y: -9}
+        - {x: 4, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -5, y: -17}
+        - {x: -5, y: 16}
+        - {x: -6, y: 17}
+    - name: foods new_153
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 14}
+        - {x: -14, y: 14}
+        - {x: -12, y: 16}
+        - {x: -12, y: 17}
+    - name: foods new_154
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -18, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 13}
+      - - {x: -18, y: 17}
+        - {x: -18, y: 14}
+        - {x: -16, y: 14}
+        - {x: -14, y: 16}
+        - {x: -14, y: 17}
+      - - {x: 2, y: 17}
+        - {x: 3, y: 14}
+        - {x: 11, y: 14}
+        - {x: 13, y: 16}
+        - {x: 13, y: 17}
+    - name: foods new_155
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 61
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -18, y: 9}
+        - {x: -18, y: -14}
+        - {x: -11, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+    - name: foods new_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -18, y: 14}
+        - {x: -18, y: -12}
+        - {x: -16, y: -15}
+        - {x: 13, y: -15}
+        - {x: 18, y: -14}
+        - {x: 18, y: 6}
+        - {x: 10, y: 15}
+      - - {x: 11, y: 17}
+        - {x: 11, y: 16}
+        - {x: 17, y: 11}
+        - {x: 18, y: 11}
+        - {x: 18, y: 17}
+    - name: foods new_157
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -15}
+        - {x: -16, y: -17}
+        - {x: 3, y: -17}
+        - {x: 9, y: -8}
+        - {x: 9, y: 8}
+        - {x: 0, y: 16}
+      - - {x: 14, y: 17}
+        - {x: 12, y: 15}
+        - {x: 12, y: 5}
+        - {x: 15, y: -7}
+        - {x: 18, y: -7}
+        - {x: 18, y: 17}
+    - name: foods new_158
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17}
+        - {x: 7, y: 3}
+        - {x: 7, y: -13}
+        - {x: 8, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 17}
+      - - {x: -1, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: -14}
+        - {x: -15, y: -15}
+        - {x: -9, y: -15}
+        - {x: -2, y: -13}
+        - {x: 0, y: 8}
+        - {x: 0, y: 16}
+    - name: foods new_159
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -18, y: -17}
+        - {x: -8, y: -17}
+        - {x: -1, y: 15}
+        - {x: -3, y: 17}
+      - - {x: -3, y: 11}
+        - {x: -3, y: -5}
+        - {x: 0, y: -14}
+        - {x: 11, y: -15}
+        - {x: 18, y: -15}
+        - {x: 18, y: 14}
+        - {x: 10, y: 14}
+        - {x: 0, y: 13}
+    - name: foods new_160
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 14}
+        - {x: -18, y: -15}
+        - {x: -5, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 12}
+        - {x: 16, y: 14}
+    - name: foods new_161
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -17}
+        - {x: -15, y: -17}
+        - {x: -15, y: -15}
+        - {x: -17, y: -13}
+        - {x: -18, y: -13}
+      - - {x: -12, y: 14}
+        - {x: -18, y: 12}
+        - {x: -18, y: -12}
+        - {x: -13, y: -15}
+        - {x: 15, y: -15}
+        - {x: 18, y: -14}
+        - {x: 18, y: 13}
+        - {x: 12, y: 14}
+    - name: foods new_162
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 14}
+        - {x: -18, y: 9}
+        - {x: -18, y: -12}
+        - {x: -15, y: -15}
+        - {x: 4, y: -15}
+        - {x: 18, y: -10}
+        - {x: 18, y: 12}
+        - {x: 14, y: 14}
+    - name: foods new_163
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 12}
+        - {x: -15, y: 12}
+        - {x: -18, y: 6}
+        - {x: -18, y: -12}
+        - {x: -8, y: -15}
+        - {x: 14, y: -15}
+        - {x: 17, y: -14}
+        - {x: 18, y: -13}
+    - name: foods new_164
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 14}
+        - {x: -18, y: -15}
+        - {x: 18, y: -15}
+        - {x: 18, y: 14}
+    - name: foods new_165
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 15}
+        - {x: -18, y: -15}
+        - {x: 18, y: -15}
+        - {x: 18, y: 14}
+        - {x: 13, y: 15}
+    - name: foods new_166
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -18, y: -15}
+        - {x: -9, y: -15}
+        - {x: -1, y: -8}
+        - {x: -1, y: 10}
+        - {x: -11, y: 16}
+      - - {x: 9, y: 13}
+        - {x: 1, y: 7}
+        - {x: 1, y: -14}
+        - {x: 4, y: -15}
+        - {x: 8, y: -15}
+        - {x: 18, y: -8}
+        - {x: 18, y: 12}
+        - {x: 15, y: 13}
+    - name: foods new_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 1}
+        - {x: -10, y: -14}
+        - {x: -9, y: -15}
+        - {x: 8, y: -15}
+        - {x: 18, y: -7}
+        - {x: 18, y: 17}
+        - {x: 8, y: 17}
+        - {x: -7, y: 12}
+      - - {x: -17, y: 17}
+        - {x: -18, y: 15}
+        - {x: -18, y: -7}
+        - {x: -15, y: -6}
+        - {x: -12, y: 0}
+        - {x: -11, y: 11}
+        - {x: -11, y: 17}
+    - name: foods new_168
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 27
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -10, y: -15}
+        - {x: 15, y: -15}
+        - {x: 16, y: -14}
+        - {x: 16, y: 17}
+      - - {x: -18, y: -8}
+        - {x: -16, y: -10}
+        - {x: -13, y: -9}
+        - {x: -13, y: -5}
+        - {x: -17, y: 0}
+        - {x: -18, y: 0}
+      - - {x: -16, y: 17}
+        - {x: -18, y: 17}
+        - {x: -18, y: 7}
+        - {x: -11, y: 7}
+        - {x: -10, y: 11}
+        - {x: -10, y: 15}
+        - {x: -12, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

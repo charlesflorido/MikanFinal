@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: 973b1de043acd4247a6454fc032a9146
+timeCreated: 1454475406
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: food new 4_0
+    21300002: food new 4_1
+    21300004: food new 4_2
+    21300006: food new 4_3
+    21300008: food new 4_4
+    21300010: food new 4_5
+    21300012: food new 4_6
+    21300014: food new 4_7
+    21300016: food new 4_8
+    21300018: food new 4_9
+    21300020: food new 4_10
+    21300022: food new 4_11
+    21300024: food new 4_12
+    21300026: food new 4_13
+    21300028: food new 4_14
+    21300030: food new 4_15
+    21300032: food new 4_16
+    21300034: food new 4_17
+    21300036: food new 4_18
+    21300038: food new 4_19
+    21300040: food new 4_20
+    21300042: food new 4_21
+    21300044: food new 4_22
+    21300046: food new 4_23
+    21300048: food new 4_24
+    21300050: food new 4_25
+    21300052: food new 4_26
+    21300054: food new 4_27
+    21300056: food new 4_28
+    21300058: food new 4_29
+    21300060: food new 4_30
+    21300062: food new 4_31
+    21300064: food new 4_32
+    21300066: food new 4_33
+    21300068: food new 4_34
+    21300070: food new 4_35
+    21300072: food new 4_36
+    21300074: food new 4_37
+    21300076: food new 4_38
+    21300078: food new 4_39
+    21300080: food new 4_40
+    21300082: food new 4_41
+    21300084: food new 4_42
+    21300086: food new 4_43
+    21300088: food new 4_44
+    21300090: food new 4_45
+    21300092: food new 4_46
+    21300094: food new 4_47
+    21300096: food new 4_48
+    21300098: food new 4_49
+    21300100: food new 4_50
+    21300102: food new 4_51
+    21300104: food new 4_52
+    21300106: food new 4_53
+    21300108: food new 4_54
+    21300110: food new 4_55
+    21300112: food new 4_56
+    21300114: food new 4_57
+    21300116: food new 4_58
+    21300118: food new 4_59
+    21300120: food new 4_60
+    21300122: food new 4_61
+    21300124: food new 4_62
+    21300126: food new 4_63
+    21300128: food new 4_64
+    21300130: food new 4_65
+    21300132: food new 4_66
+    21300134: food new 4_67
+    21300136: food new 4_68
+    21300138: food new 4_69
+    21300140: food new 4_70
+    21300142: food new 4_71
+    21300144: food new 4_72
+    21300146: food new 4_73
+    21300148: food new 4_74
+    21300150: food new 4_75
+    21300152: food new 4_76
+    21300154: food new 4_77
+    21300156: food new 4_78
+    21300158: food new 4_79
+    21300160: food new 4_80
+    21300162: food new 4_81
+    21300164: food new 4_82
+    21300166: food new 4_83
+    21300168: food new 4_84
+    21300170: food new 4_85
+    21300172: food new 4_86
+    21300174: food new 4_87
+    21300176: food new 4_88
+    21300178: food new 4_89
+    21300180: food new 4_90
+    21300182: food new 4_91
+    21300184: food new 4_92
+    21300186: food new 4_93
+    21300188: food new 4_94
+    21300190: food new 4_95
+    21300192: food new 4_96
+    21300194: food new 4_97
+    21300196: food new 4_98
+    21300198: food new 4_99
+    21300200: food new 4_100
+    21300202: food new 4_101
+    21300204: food new 4_102
+    21300206: food new 4_103
+    21300208: food new 4_104
+    21300210: food new 4_105
+    21300212: food new 4_106
+    21300214: food new 4_107
+    21300216: food new 4_108
+    21300218: food new 4_109
+    21300220: food new 4_110
+    21300222: food new 4_111
+    21300224: food new 4_112
+    21300226: food new 4_113
+    21300228: food new 4_114
+    21300230: food new 4_115
+    21300232: food new 4_116
+    21300234: food new 4_117
+    21300236: food new 4_118
+    21300238: food new 4_119
+    21300240: food new 4_120
+    21300242: food new 4_121
+    21300244: food new 4_122
+    21300246: food new 4_123
+    21300248: food new 4_124
+    21300250: food new 4_125
+    21300252: food new 4_126
+    21300254: food new 4_127
+    21300256: food new 4_128
+    21300258: food new 4_129
+    21300260: food new 4_130
+    21300262: food new 4_131
+    21300264: food new 4_132
+    21300266: food new 4_133
+    21300268: food new 4_134
+    21300270: food new 4_135
+    21300272: food new 4_136
+    21300274: food new 4_137
+    21300276: food new 4_138
+    21300278: food new 4_139
+    21300280: food new 4_140
+    21300282: food new 4_141
+    21300284: food new 4_142
+    21300286: food new 4_143
+    21300288: food new 4_144
+    21300290: food new 4_145
+    21300292: food new 4_146
+    21300294: food new 4_147
+    21300296: food new 4_148
+    21300298: food new 4_149
+    21300300: food new 4_150
+    21300302: food new 4_151
+    21300304: food new 4_152
+    21300306: food new 4_153
+    21300308: food new 4_154
+    21300310: food new 4_155
+    21300312: food new 4_156
+    21300314: food new 4_157
+    21300316: food new 4_158
+    21300318: food new 4_159
+    21300320: food new 4_160
+    21300322: food new 4_161
+    21300324: food new 4_162
+    21300326: food new 4_163
+    21300328: food new 4_164
+    21300330: food new 4_165
+    21300332: food new 4_166
+    21300334: food new 4_167
+    21300336: food new 4_168
+    21300338: food new 4_169
+    21300340: food new 4_170
+    21300342: food new 4_171
+    21300344: food new 4_172
+    21300346: food new 4_173
+    21300348: food new 4_174
+    21300350: food new 4_175
+    21300352: food new 4_176
+    21300354: food new 4_177
+    21300356: food new 4_178
+    21300358: food new 4_179
+    21300360: food new 4_180
+    21300362: food new 4_181
+    21300364: food new 4_182
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: food new 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 14.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -14.5, y: -5.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 14.5, y: 14.5}
+    - name: food new 4_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 16.5}
+        - {x: -0.5, y: 16.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 4.5}
+        - {x: 15.5, y: 12.5}
+    - name: food new 4_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16.5}
+        - {x: -13.5, y: 11.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 13.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 9.5}
+        - {x: 9.5, y: 13.5}
+    - name: food new 4_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 9.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 9.5, y: 9.5}
+    - name: food new 4_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 15.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 10.5, y: 15.5}
+    - name: food new 4_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -15.5, y: -8.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 10.5, y: 12.5}
+    - name: food new 4_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -16.5, y: 4.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 14.5}
+    - name: food new 4_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: 1.5}
+        - {x: -15.5, y: -1.5}
+        - {x: -0.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 13.5, y: 14.5}
+    - name: food new 4_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 9.5, y: 14.5}
+    - name: food new 4_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -11.5, y: -8.5}
+        - {x: -0.5, y: -16.5}
+        - {x: 1.5, y: -16.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 12.5, y: 14.5}
+    - name: food new 4_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 10.5, y: 14.5}
+    - name: food new 4_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 467
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 9.5, y: 14.5}
+    - name: food new 4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -14.5, y: 14.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -6.5, y: -14.5}
+        - {x: 13.5, y: -14.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 14.5, y: 16.5}
+    - name: food new 4_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -5.5, y: 14.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -7.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -15.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16.5}
+        - {x: -16.5, y: 1.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -10.5, y: -15.5}
+        - {x: 5.5, y: -15.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -16.5, y: 6.5}
+        - {x: -13.5, y: 7.5}
+        - {x: -13.5, y: 11.5}
+        - {x: -15.5, y: 13.5}
+        - {x: -16.5, y: 13.5}
+    - name: food new 4_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 12.5, y: 16.5}
+    - name: food new 4_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -15.5, y: 10.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -8.5, y: -12.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -14.5, y: 12.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 7.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 16.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -7.5, y: -15.5}
+        - {x: -3.5, y: -16.5}
+        - {x: 6.5, y: -16.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -15.5, y: 13.5}
+        - {x: -15.5, y: -9.5}
+        - {x: -13.5, y: -15.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 12.5, y: 16.5}
+      - - {x: -16.5, y: 4.5}
+        - {x: -13.5, y: 5.5}
+        - {x: -13.5, y: 10.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -16.5, y: 12.5}
+    - name: food new 4_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -15.5, y: -15.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 16.5}
+        - {x: -11.5, y: 12.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 3.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 434
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 6.5, y: -16.5}
+        - {x: 12.5, y: -14.5}
+        - {x: 13.5, y: -13.5}
+        - {x: 13.5, y: 9.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -15.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 11.5, y: -13.5}
+      - - {x: -10.5, y: 16.5}
+        - {x: -14.5, y: 7.5}
+        - {x: -14.5, y: -10.5}
+        - {x: -10.5, y: -14.5}
+        - {x: 12.5, y: -14.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 16.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -10.5, y: -16.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 3.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 12.5, y: 16.5}
+      - - {x: -16.5, y: 3.5}
+        - {x: -13.5, y: 4.5}
+        - {x: -13.5, y: 7.5}
+        - {x: -15.5, y: 9.5}
+        - {x: -16.5, y: 9.5}
+    - name: food new 4_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 16.5}
+        - {x: -8.5, y: 16.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+    - name: food new 4_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -12.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 12.5, y: 16.5}
+      - - {x: -16.5, y: -8.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -13.5, y: -0.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -16.5, y: 1.5}
+    - name: food new 4_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -16.5, y: -8.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -13.5, y: -0.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -16.5, y: 1.5}
+    - name: food new 4_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -15.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 16.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -8.5, y: -14.5}
+        - {x: 13.5, y: -14.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -15.5, y: -9.5}
+        - {x: -10.5, y: -14.5}
+        - {x: 3.5, y: -14.5}
+        - {x: 12.5, y: -9.5}
+        - {x: 14.5, y: 5.5}
+        - {x: 14.5, y: 13.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -16.5}
+        - {x: 11.5, y: -13.5}
+        - {x: 7.5, y: -13.5}
+        - {x: 6.5, y: -16.5}
+      - - {x: -9.5, y: 16.5}
+        - {x: -11.5, y: 14.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -6.5, y: -14.5}
+        - {x: 10.5, y: -14.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_43
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -10.5, y: -10.5}
+        - {x: -1.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 14.5, y: -3.5}
+        - {x: 14.5, y: 13.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 401
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -12.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 7.5, y: -14.5}
+        - {x: 7.5, y: 13.5}
+        - {x: 6.5, y: 16.5}
+    - name: food new 4_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -16.5}
+        - {x: 7.5, y: -13.5}
+        - {x: 1.5, y: -13.5}
+        - {x: 0.5, y: -16.5}
+      - - {x: -4.5, y: 16.5}
+        - {x: -14.5, y: 9.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -12.5, y: -14.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 10.5, y: -10.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -0.5}
+        - {x: -12.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 12.5}
+        - {x: 6.5, y: 16.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -14.5, y: 14.5}
+        - {x: -14.5, y: -5.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 8.5, y: -13.5}
+        - {x: 9.5, y: -5.5}
+    - name: food new 4_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 16.5}
+        - {x: -14.5, y: 12.5}
+        - {x: -14.5, y: -14.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -13.5, y: -12.5}
+        - {x: -13.5, y: -9.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -16.5, y: -13.5}
+      - - {x: -13.5, y: 10.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: 9.5}
+    - name: food new 4_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 9.5, y: -10.5}
+        - {x: 9.5, y: 14.5}
+        - {x: 7.5, y: 16.5}
+    - name: food new 4_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -14.5, y: -15.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_52
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 12.5, y: -9.5}
+        - {x: 14.5, y: -2.5}
+        - {x: 14.5, y: 12.5}
+      - - {x: -13.5, y: -13.5}
+        - {x: -13.5, y: -10.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -16.5, y: -14.5}
+    - name: food new 4_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 16.5}
+        - {x: -14.5, y: 6.5}
+        - {x: -14.5, y: -11.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -16.5}
+        - {x: -7.5, y: -13.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -14.5, y: -16.5}
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -16.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -15.5, y: -16.5}
+      - - {x: 1.5, y: 16.5}
+        - {x: -4.5, y: 15.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 6.5, y: -16.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -16.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -14.5, y: -13.5}
+        - {x: -15.5, y: -16.5}
+      - - {x: -6.5, y: 16.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 14.5, y: -3.5}
+        - {x: 14.5, y: 16.5}
+    - name: food new 4_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 16.5}
+        - {x: -4.5, y: 16.5}
+        - {x: -13.5, y: 3.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 4.5, y: -16.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 13.5}
+    - name: food new 4_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 368
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -12.5, y: 15.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -15.5, y: -12.5}
+        - {x: -11.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -16.5}
+        - {x: 15.5, y: -13.5}
+        - {x: 5.5, y: -13.5}
+        - {x: 4.5, y: -16.5}
+      - - {x: 9.5, y: 16.5}
+        - {x: -3.5, y: 16.5}
+        - {x: -14.5, y: 6.5}
+        - {x: -14.5, y: -14.5}
+        - {x: 6.5, y: -14.5}
+        - {x: 12.5, y: -12.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 9.5}
+    - name: food new 4_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16.5}
+        - {x: -14.5, y: 13.5}
+        - {x: -14.5, y: -6.5}
+        - {x: -8.5, y: -12.5}
+        - {x: -3.5, y: -14.5}
+        - {x: 10.5, y: -14.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 14.5, y: 16.5}
+    - name: food new 4_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16.5}
+        - {x: -15.5, y: 14.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -5.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 16.5}
+        - {x: -8.5, y: 5.5}
+        - {x: -9.5, y: 2.5}
+        - {x: -14.5, y: -8.5}
+        - {x: -14.5, y: -11.5}
+        - {x: -13.5, y: -14.5}
+        - {x: -6.5, y: -14.5}
+        - {x: 2.5, y: -11.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -14.5, y: 12.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 14.5, y: 16.5}
+    - name: food new 4_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -5.5}
+        - {x: -7.5, y: -14.5}
+        - {x: -2.5, y: -14.5}
+        - {x: 0.5, y: -13.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 5.5, y: 12.5}
+        - {x: 4.5, y: 16.5}
+    - name: food new 4_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 16.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -14.5, y: 8.5}
+        - {x: -14.5, y: -8.5}
+        - {x: -10.5, y: -14.5}
+        - {x: 1.5, y: -14.5}
+        - {x: 3.5, y: -13.5}
+        - {x: 6.5, y: -8.5}
+        - {x: 6.5, y: 8.5}
+    - name: food new 4_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 16.5}
+        - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -7.5}
+        - {x: -1.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+    - name: food new 4_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 16.5}
+        - {x: -15.5, y: 16.5}
+        - {x: -15.5, y: -6.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 8.5}
+        - {x: 14.5, y: 13.5}
+    - name: food new 4_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -4.5, y: -14.5}
+        - {x: 13.5, y: -14.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 14.5, y: 14.5}
+    - name: food new 4_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -11.5, y: -15.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_72
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -16.5}
+        - {x: 14.5, y: -13.5}
+        - {x: 8.5, y: -13.5}
+        - {x: 7.5, y: -16.5}
+      - - {x: 14.5, y: 16.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -9.5, y: -14.5}
+        - {x: 6.5, y: -14.5}
+        - {x: 11.5, y: -9.5}
+        - {x: 16.5, y: -0.5}
+        - {x: 16.5, y: 10.5}
+    - name: food new 4_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -16.5}
+        - {x: 8.5, y: -13.5}
+        - {x: 1.5, y: -13.5}
+        - {x: 0.5, y: -16.5}
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -4.5, y: -14.5}
+        - {x: 4.5, y: -10.5}
+        - {x: 7.5, y: -1.5}
+        - {x: 7.5, y: 16.5}
+    - name: food new 4_74
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 335
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 12.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 12.5}
+    - name: food new 4_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16.5}
+        - {x: -14.5, y: 9.5}
+        - {x: -14.5, y: -11.5}
+        - {x: -9.5, y: -15.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -8.5}
+        - {x: -0.5, y: -16.5}
+        - {x: 14.5, y: -16.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 9.5}
+        - {x: 6.5, y: 16.5}
+    - name: food new 4_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 11.5, y: 16.5}
+    - name: food new 4_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 16.5}
+        - {x: -9.5, y: 14.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -14.5, y: -6.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_79
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -13.5, y: 12.5}
+        - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 11.5}
+    - name: food new 4_80
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -15.5, y: -4.5}
+        - {x: -8.5, y: -14.5}
+        - {x: 11.5, y: -14.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 14.5, y: 16.5}
+    - name: food new 4_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 16.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -14.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 9.5, y: 16.5}
+    - name: food new 4_82
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -5.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -13.5, y: -14.5}
+        - {x: -0.5, y: -14.5}
+        - {x: 5.5, y: -13.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -0.5, y: -14.5}
+        - {x: 14.5, y: -14.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16.5}
+        - {x: -13.5, y: 4.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -15.5, y: -14.5}
+        - {x: -2.5, y: -14.5}
+        - {x: 16.5, y: 4.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -8.5, y: 13.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_87
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -13.5, y: -14.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 7.5, y: -14.5}
+        - {x: 14.5, y: -13.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 12.5, y: 16.5}
+    - name: food new 4_89
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 302
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -14.5}
+        - {x: 7.5, y: -14.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -12.5}
+        - {x: -12.5, y: -14.5}
+        - {x: 11.5, y: -14.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 14.5, y: 16.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -14.5, y: 7.5}
+    - name: food new 4_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -14.5, y: 2.5}
+        - {x: -14.5, y: -14.5}
+        - {x: 3.5, y: -14.5}
+        - {x: 13.5, y: -5.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 16.5}
+        - {x: -13.5, y: 11.5}
+        - {x: -14.5, y: 5.5}
+        - {x: -14.5, y: -14.5}
+        - {x: 8.5, y: -14.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -16.5, y: 3.5}
+        - {x: -13.5, y: 4.5}
+        - {x: -13.5, y: 10.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -16.5, y: 12.5}
+    - name: food new 4_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -8.5, y: -14.5}
+        - {x: 12.5, y: -14.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -14.5, y: 9.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -12.5, y: -14.5}
+        - {x: 6.5, y: -14.5}
+        - {x: 15.5, y: -4.5}
+        - {x: 15.5, y: 11.5}
+        - {x: 12.5, y: 16.5}
+    - name: food new 4_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 13.5}
+        - {x: -14.5, y: 6.5}
+        - {x: -14.5, y: -10.5}
+        - {x: -10.5, y: -14.5}
+        - {x: 0.5, y: -14.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 13.5, y: 13.5}
+    - name: food new 4_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 13.5}
+        - {x: -7.5, y: 10.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -15.5, y: -11.5}
+        - {x: -10.5, y: -14.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 13.5}
+    - name: food new 4_97
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 13.5}
+        - {x: 5.5, y: 13.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -12.5, y: -14.5}
+        - {x: 11.5, y: -14.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 16.5, y: 12.5}
+    - name: food new 4_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 269
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -3.5}
+        - {x: -13.5, y: -2.5}
+        - {x: -13.5, y: 4.5}
+        - {x: -15.5, y: 6.5}
+        - {x: -16.5, y: 6.5}
+    - name: food new 4_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -16.5}
+        - {x: 7.5, y: -13.5}
+        - {x: -2.5, y: -13.5}
+        - {x: -3.5, y: -16.5}
+    - name: food new 4_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -8.5}
+        - {x: -11.5, y: -13.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 1.5, y: -8.5}
+    - name: food new 4_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 6.5, y: -15.5}
+        - {x: 6.5, y: -11.5}
+        - {x: 3.5, y: -7.5}
+    - name: food new 4_102
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -12.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 14.5, y: -9.5}
+    - name: food new 4_103
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: -5.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 2.5, y: -16.5}
+        - {x: 1.5, y: -13.5}
+        - {x: -2.5, y: -7.5}
+        - {x: -5.5, y: -4.5}
+    - name: food new 4_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -15.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 15.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 15.5, y: 2.5}
+    - name: food new 4_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -15.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 12.5, y: -0.5}
+        - {x: 9.5, y: 6.5}
+      - - {x: 13.5, y: -11.5}
+        - {x: 15.5, y: -13.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 13.5, y: -0.5}
+    - name: food new 4_108
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 12.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 8.5}
+        - {x: 4.5, y: 12.5}
+    - name: food new 4_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 8.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 13.5, y: -16.5}
+        - {x: 13.5, y: -6.5}
+        - {x: 10.5, y: 0.5}
+        - {x: 6.5, y: 4.5}
+    - name: food new 4_110
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 16.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -11.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 14.5}
+        - {x: 5.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 4.5}
+        - {x: 14.5, y: 9.5}
+    - name: food new 4_112
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 5.5}
+        - {x: -8.5, y: 0.5}
+        - {x: -10.5, y: -8.5}
+        - {x: -10.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+        - {x: -0.5, y: 12.5}
+    - name: food new 4_113
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 14.5, y: 15.5}
+    - name: food new 4_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 6.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -10.5, y: -16.5}
+        - {x: -10.5, y: 1.5}
+        - {x: -12.5, y: 4.5}
+      - - {x: -10.5, y: 8.5}
+        - {x: -10.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 14.5}
+        - {x: -6.5, y: 13.5}
+    - name: food new 4_115
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 15.5}
+        - {x: -6.5, y: 15.5}
+    - name: food new 4_116
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 13.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -11.5, y: -16.5}
+        - {x: -10.5, y: -15.5}
+        - {x: -10.5, y: 7.5}
+      - - {x: 5.5, y: 16.5}
+        - {x: -8.5, y: 8.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 12.5, y: 16.5}
+    - name: food new 4_117
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 4.5, y: 16.5}
+    - name: food new 4_118
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 203
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -5.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -15.5, y: -14.5}
+        - {x: -12.5, y: -11.5}
+        - {x: -12.5, y: -8.5}
+        - {x: -15.5, y: -5.5}
+    - name: food new 4_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16.5}
+        - {x: -15.5, y: 15.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -0.5, y: -5.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -0.5, y: -5.5}
+        - {x: 13.5, y: 8.5}
+        - {x: 13.5, y: 16.5}
+    - name: food new 4_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -15.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 14.5, y: -13.5}
+      - - {x: -15.5, y: 16.5}
+        - {x: -15.5, y: 9.5}
+        - {x: -8.5, y: -5.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -16.5}
+        - {x: -4.5, y: -16.5}
+        - {x: -4.5, y: -15.5}
+        - {x: -8.5, y: -12.5}
+        - {x: -16.5, y: -12.5}
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 1.5, y: -3.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 12.5, y: 16.5}
+    - name: food new 4_123
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -15.5}
+        - {x: -3.5, y: -16.5}
+        - {x: 10.5, y: -16.5}
+        - {x: 9.5, y: -13.5}
+        - {x: 5.5, y: -12.5}
+        - {x: -0.5, y: -12.5}
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -6.5, y: 0.5}
+        - {x: 6.5, y: -4.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_124
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -4.5, y: -4.5}
+        - {x: 5.5, y: -0.5}
+        - {x: 9.5, y: 6.5}
+        - {x: 12.5, y: 11.5}
+    - name: food new 4_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -11.5, y: -1.5}
+        - {x: -9.5, y: -4.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_126
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -1.5}
+        - {x: 5.5, y: -1.5}
+        - {x: 16.5, y: 2.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_127
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -9.5, y: 10.5}
+        - {x: -5.5, y: -1.5}
+        - {x: 0.5, y: -3.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_128
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -3.5}
+        - {x: 9.5, y: -3.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_129
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -6.5, y: 8.5}
+        - {x: -0.5, y: 1.5}
+        - {x: 11.5, y: -3.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -13.5, y: 9.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+    - name: food new 4_130
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -3.5}
+        - {x: 3.5, y: -3.5}
+        - {x: 10.5, y: -0.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16.5}
+        - {x: -6.5, y: 14.5}
+        - {x: -3.5, y: 3.5}
+        - {x: 8.5, y: -2.5}
+        - {x: 13.5, y: -2.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -13.5, y: 9.5}
+        - {x: -11.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+    - name: food new 4_132
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -12.5, y: -3.5}
+        - {x: 2.5, y: -3.5}
+        - {x: 16.5, y: 4.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_133
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 170
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -12.5, y: 3.5}
+        - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: 13.5}
+        - {x: -9.5, y: 16.5}
+    - name: food new 4_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 9.5}
+        - {x: -6.5, y: 5.5}
+        - {x: -14.5, y: -4.5}
+        - {x: -15.5, y: -11.5}
+        - {x: -15.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 9.5}
+    - name: food new 4_135
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_136
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 16.5}
+        - {x: -11.5, y: 8.5}
+        - {x: -16.5, y: 5.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_137
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 7.5, y: -16.5}
+        - {x: 15.5, y: -3.5}
+        - {x: 15.5, y: 9.5}
+        - {x: 2.5, y: 16.5}
+    - name: food new 4_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 12.5}
+        - {x: -15.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 6.5, y: -16.5}
+        - {x: 12.5, y: -6.5}
+        - {x: 12.5, y: 3.5}
+        - {x: 10.5, y: 10.5}
+    - name: food new 4_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 16.5}
+        - {x: -14.5, y: -7.5}
+        - {x: -14.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_141
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 15.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 12.5, y: -10.5}
+        - {x: 12.5, y: 4.5}
+        - {x: -3.5, y: 13.5}
+    - name: food new 4_142
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 6.5}
+        - {x: -11.5, y: -5.5}
+        - {x: -12.5, y: -9.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -9.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 4.5, y: 11.5}
+    - name: food new 4_143
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 11.5}
+        - {x: -16.5, y: 11.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 8.5, y: 7.5}
+    - name: food new 4_144
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 10.5}
+        - {x: -8.5, y: -7.5}
+        - {x: -8.5, y: -13.5}
+        - {x: -7.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 10.5}
+      - - {x: -16.5, y: -6.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -15.5, y: -15.5}
+        - {x: -12.5, y: -12.5}
+        - {x: -12.5, y: -9.5}
+        - {x: -15.5, y: -6.5}
+    - name: food new 4_145
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 8.5, y: 10.5}
+    - name: food new 4_146
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 10.5}
+        - {x: -0.5, y: 5.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 10.5}
+    - name: food new 4_147
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 15.5, y: 4.5}
+        - {x: 5.5, y: 10.5}
+        - {x: -16.5, y: 10.5}
+    - name: food new 4_148
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 137
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -6.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -11.5, y: -13.5}
+        - {x: -11.5, y: -10.5}
+    - name: food new 4_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 16.5}
+        - {x: -15.5, y: 1.5}
+        - {x: -7.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_150
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -5.5, y: -14.5}
+        - {x: 5.5, y: -11.5}
+        - {x: 15.5, y: 2.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_151
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 3.5}
+        - {x: -13.5, y: -8.5}
+        - {x: -8.5, y: -10.5}
+        - {x: 8.5, y: -10.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_152
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -12.5, y: -3.5}
+        - {x: 4.5, y: -3.5}
+        - {x: 14.5, y: 4.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 9.5, y: 16.5}
+    - name: food new 4_153
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -5.5, y: -9.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_154
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -5.5}
+        - {x: -3.5, y: -5.5}
+        - {x: 5.5, y: 6.5}
+        - {x: 5.5, y: 16.5}
+    - name: food new 4_155
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 16.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -9.5, y: -14.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_156
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -2.5, y: -7.5}
+        - {x: 2.5, y: -1.5}
+        - {x: 8.5, y: 11.5}
+    - name: food new 4_157
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 16.5}
+        - {x: -7.5, y: 14.5}
+        - {x: 13.5, y: -9.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_158
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -8.5, y: -13.5}
+        - {x: 13.5, y: 11.5}
+        - {x: 15.5, y: 16.5}
+    - name: food new 4_159
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 16.5}
+        - {x: -4.5, y: 14.5}
+        - {x: 11.5, y: -3.5}
+        - {x: 15.5, y: -6.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_160
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -9.5, y: -14.5}
+        - {x: -3.5, y: -14.5}
+        - {x: 16.5, y: 9.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 16.5}
+        - {x: -8.5, y: 13.5}
+        - {x: 14.5, y: -10.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -12.5, y: 15.5}
+        - {x: -12.5, y: 16.5}
+    - name: food new 4_162
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 104
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -12.5, y: -15.5}
+        - {x: -8.5, y: -15.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 12.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -12.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+    - name: food new 4_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 12.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 15.5, y: -8.5}
+    - name: food new 4_165
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 12.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -16.5, y: -4.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 16.5, y: -16.5}
+        - {x: 16.5, y: 12.5}
+    - name: food new 4_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 3.5}
+        - {x: 0.5, y: 12.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 12.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 15.5, y: -4.5}
+    - name: food new 4_167
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -12.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -1.5, y: -16.5}
+        - {x: -1.5, y: -14.5}
+        - {x: -2.5, y: -12.5}
+    - name: food new 4_168
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: -14.5}
+        - {x: -9.5, y: -16.5}
+        - {x: -3.5, y: -16.5}
+        - {x: -3.5, y: -14.5}
+        - {x: -5.5, y: -12.5}
+        - {x: -7.5, y: -12.5}
+      - - {x: -1.5, y: -14.5}
+        - {x: -1.5, y: -16.5}
+        - {x: 4.5, y: -16.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 2.5, y: -12.5}
+        - {x: 0.5, y: -12.5}
+    - name: food new 4_169
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -14.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -6.5, y: -16.5}
+        - {x: -6.5, y: -14.5}
+        - {x: -8.5, y: -12.5}
+        - {x: -10.5, y: -12.5}
+      - - {x: -1.5, y: -14.5}
+        - {x: -1.5, y: -16.5}
+        - {x: 4.5, y: -16.5}
+        - {x: 4.5, y: -14.5}
+        - {x: 2.5, y: -12.5}
+        - {x: 0.5, y: -12.5}
+    - name: food new 4_170
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -16.5}
+        - {x: -5.5, y: -16.5}
+        - {x: -5.5, y: -14.5}
+        - {x: -7.5, y: -12.5}
+        - {x: -16.5, y: -12.5}
+      - - {x: -1.5, y: -15.5}
+        - {x: -1.5, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 5.5, y: -14.5}
+        - {x: 3.5, y: -12.5}
+        - {x: 1.5, y: -12.5}
+    - name: food new 4_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 16.5}
+        - {x: -11.5, y: 14.5}
+        - {x: 1.5, y: -4.5}
+        - {x: 14.5, y: -12.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_172
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -14.5, y: -11.5}
+        - {x: 10.5, y: 14.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_173
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16.5}
+        - {x: -9.5, y: 12.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_174
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -14.5, y: -12.5}
+        - {x: 9.5, y: 12.5}
+        - {x: 10.5, y: 16.5}
+    - name: food new 4_175
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 6.5}
+        - {x: 16.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -14.5, y: 6.5}
+        - {x: -16.5, y: 4.5}
+        - {x: -16.5, y: -8.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -16.5, y: -16.5}
+        - {x: 3.5, y: -16.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 13.5, y: 3.5}
+    - name: food new 4_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -11.5}
+        - {x: -4.5, y: -13.5}
+        - {x: -4.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 9.5, y: -14.5}
+        - {x: 8.5, y: -11.5}
+      - - {x: -16.5, y: 1.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -5.5, y: -9.5}
+        - {x: -3.5, y: -7.5}
+        - {x: -3.5, y: -0.5}
+        - {x: -5.5, y: 1.5}
+      - - {x: 0.5, y: 3.5}
+        - {x: -2.5, y: 0.5}
+        - {x: -2.5, y: -6.5}
+        - {x: 0.5, y: -9.5}
+        - {x: 7.5, y: -9.5}
+        - {x: 10.5, y: -6.5}
+        - {x: 10.5, y: 0.5}
+        - {x: 7.5, y: 3.5}
+      - - {x: 15.5, y: 16.5}
+        - {x: -1.5, y: 16.5}
+        - {x: -1.5, y: 8.5}
+        - {x: 0.5, y: 6.5}
+        - {x: 13.5, y: -9.5}
+        - {x: 16.5, y: -9.5}
+        - {x: 16.5, y: 15.5}
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 6.5}
+        - {x: -5.5, y: 6.5}
+        - {x: -3.5, y: 7.5}
+        - {x: -3.5, y: 16.5}
+    - name: food new 4_177
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -13.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 11.5, y: -13.5}
+        - {x: 9.5, y: -11.5}
+        - {x: 7.5, y: -11.5}
+      - - {x: -2.5, y: 4.5}
+        - {x: -16.5, y: 4.5}
+        - {x: -16.5, y: -9.5}
+        - {x: 10.5, y: -9.5}
+        - {x: 10.5, y: 0.5}
+        - {x: 9.5, y: 3.5}
+      - - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -15.5, y: 6.5}
+        - {x: 16.5, y: 6.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_178
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -13.5}
+        - {x: -12.5, y: -16.5}
+        - {x: -6.5, y: -16.5}
+        - {x: -6.5, y: -13.5}
+        - {x: -8.5, y: -11.5}
+        - {x: -10.5, y: -11.5}
+      - - {x: -15.5, y: 16.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: 6.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 6.5, y: 16.5}
+    - name: food new 4_179
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -15.5, y: 7.5}
+        - {x: 1.5, y: 7.5}
+        - {x: 2.5, y: 9.5}
+        - {x: 2.5, y: 16.5}
+      - - {x: 3.5, y: 16.5}
+        - {x: 3.5, y: 7.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_180
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: 10.5, y: 7.5}
+        - {x: 10.5, y: 16.5}
+      - - {x: 12.5, y: 16.5}
+        - {x: 12.5, y: 9.5}
+        - {x: 14.5, y: 7.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_181
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 5
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: 16.5, y: 7.5}
+        - {x: 16.5, y: 16.5}
+    - name: food new 4_182
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 5
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: 9.5}
+        - {x: -14.5, y: 7.5}
+        - {x: -8.5, y: 7.5}
+        - {x: -6.5, y: 9.5}
+        - {x: -6.5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
